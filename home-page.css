@@ -1,0 +1,24 @@
+table {
+    height: 40px;
+    left:10%;
+    margin: 20px auto;
+    overflow-y: scroll;
+    position: static;
+    width: 80%;
+}
+
+thead, th {
+    background-color: blanchedalmond;
+    color: cornflowerblue;
+    font-size: 18px;
+}
+
+tr {
+    background-color: silver;
+    border-bottom: 1px solid;
+    margin-bottom: 5px;
+}
+
+td, th {
+    padding: 20px;
+}
